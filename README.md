@@ -16,3 +16,20 @@
     - What is PyTorch
     - What is tensor?
 
+**DAY-2**
+
+ - Continued watching the Learn PyTorch video
+
+ - Topics covered today:
+    
+    - What is Random tensor
+    - Why use Random tensors
+    - How to create a Random tensors
+    - Zeros and ones
+    - Creating tensor in range
+    - Tensor datatypes
+    - Details about tensor
+    - Manipulating tensor
+    - Matrix multiplication
+    - Main rules of Matrix multiplication
+    - Dealing with shape errors
