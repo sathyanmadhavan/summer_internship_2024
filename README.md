@@ -33,3 +33,20 @@
     - Matrix multiplication
     - Main rules of Matrix multiplication
     - Dealing with shape errors
+
+
+**DAY-3**
+
+    - Explored about 'Hugging face' and learnt about:
+
+        - Pipeline functions
+        - Tried to workout the examples got a error tried to fix that which is still pending
+        - Details of the error is mentioned in the 'Trello' card.
+
+    - Continued exploring the Learn PyTorch video:
+
+        - Topics covered today:
+
+                - Finding the min , max , mean of tensor
+                - Finding the positional min and max of tensors
+                - Reshaping,viewing and stack
