@@ -50,3 +50,17 @@
                 - Finding the min , max , mean of tensor
                 - Finding the positional min and max of tensors
                 - Reshaping,viewing and stack
+
+
+**DAY-4**
+
+    - Fixed the error in downloding PyTorch
+
+    - Continued exploring the Learn PyTorch video:
+
+        - Topics covered today:
+
+            - Indexing(selecting data from tensors)
+            - PyTorch and numpy
+            - Reproducablity
+            - GPU's
