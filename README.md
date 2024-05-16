@@ -64,3 +64,19 @@
             - PyTorch and numpy
             - Reproducablity
             - GPU's
+
+**DAY-5**
+
+    - Continued exploring about PyTorch
+
+    - Topics covered today:
+
+        - PyTorch workflow
+        - Data preparing and loading
+        - Machine learning game of two parts
+        - linear regression formula
+        - create Known parameters
+        - splitting data into training and test sets
+        - Three datasets
+        - Building a function to visualize data
+        - Creating our first PyTorch model(linear regression)
