@@ -80,3 +80,19 @@
         - Three datasets
         - Building a function to visualize data
         - Creating our first PyTorch model(linear regression)
+
+    
+**DAY-6**
+
+    - Continued exploring PyTorch and Hugging Face
+
+    - Topics covered and links found useful:
+
+        - Breaking down what happening in our model
+        - PyTorch model building class
+        - checking content of our model
+        - Making predictions with our random model
+
+        - https://youtu.be/x8gdOPO35HA?si=gGUT75XF4bYXU6ju
+        - https://youtu.be/QEaBAZQCtwE?si=w4FTTzJF9mec6Ife
+        - https://youtu.be/jBFFUwL0TyY?si=xyaMAMZwLTpM8Bic
