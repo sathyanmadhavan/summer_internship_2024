@@ -96,3 +96,35 @@
         - https://youtu.be/x8gdOPO35HA?si=gGUT75XF4bYXU6ju
         - https://youtu.be/QEaBAZQCtwE?si=w4FTTzJF9mec6Ife
         - https://youtu.be/jBFFUwL0TyY?si=xyaMAMZwLTpM8Bic
+
+
+**Day-7**
+
+    - Continued exploring PyTorch and Hugging face
+
+    - Topics covered and links found useful:
+
+        - Intitution building
+
+        - Loss function
+
+        - optimizer
+
+        - Setting up loss function and optimizer
+
+        - Mean Absolute Error
+
+        - Building and training loop in PyTorch
+
+        - Writing code for PyTorch training loop
+
+        Hugging face:
+
+        - Why Transformers built?
+
+        - Libraries and API's 
+
+        - Transformer terms
+
+            - Attention mask
+            - Back bone
