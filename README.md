@@ -128,3 +128,27 @@
 
             - Attention mask
             - Back bone
+
+
+**DAY-8**
+
+    - Continued exploring PyTorch and Hugging Face
+
+    - Topics covered:
+
+        - Running our training loop epoch by epoch
+        - Writing code to save a PyTorch model
+        - Writing a code to load model
+        - Putting all together and building a model
+        - PyTorch neural network classification
+        - What is classification problem
+
+    Hugging face:
+
+        - Batching inputs together
+        - Casual language modeling
+        - CTC
+        - Data parallel
+        - Decoder input ID's
+        - Tokenizer overview
+        
