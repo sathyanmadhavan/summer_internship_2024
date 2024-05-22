@@ -151,4 +151,20 @@
         - Data parallel
         - Decoder input ID's
         - Tokenizer overview
-        
+
+
+**DAY-9**
+
+    - Explored about Transformers architecture and have arranged a meet to discuss about it further
+
+    - Resumed exploring PyTorch
+
+    - Topics covered:
+
+        - Binary classification
+        - multiclass classification
+        - multilabel classification
+        - binary vs multiclass
+        - classification input and output
+        - Input output shapes
+        - Architecture of classification model
