@@ -168,3 +168,25 @@
         - classification input and output
         - Input output shapes
         - Architecture of classification model
+
+
+**DAY-10**
+
+    -  Explored for datasets and model in hugging face to build a project
+
+    -  Picked up a project titled CONTEXT B*ASED QUESTION ANSWERING USING RAG
+
+    -  Prepared abstract for the project
+
+**Day-11**
+
+    - Attended the first review in college and explained about the abstract of the project
+
+    - Explored further about RAG and DPR
+
+    - Links found useful:
+
+        - https://youtu.be/T-D1OfcDW1M?si=jalBojmUFG1mmlMa
+        - https://youtu.be/YOunnfYEZfA?si=uR6cG24VgxQUQV0z
+        - https://qxf2.com/blog/context-based-question-answering-using-llm/
+        - https://towardsdatascience.com/understanding-dense-passage-retrieval-dpr-system-bce5aee4fd40
