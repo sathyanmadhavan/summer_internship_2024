@@ -174,7 +174,7 @@
 
     -  Explored for datasets and model in hugging face to build a project
 
-    -  Picked up a project titled CONTEXT B*ASED QUESTION ANSWERING USING RAG
+    -  Picked up a project titled CONTEXT BASED QUESTION ANSWERING USING RAG
 
     -  Prepared abstract for the project
 
@@ -190,3 +190,60 @@
         - https://youtu.be/YOunnfYEZfA?si=uR6cG24VgxQUQV0z
         - https://qxf2.com/blog/context-based-question-answering-using-llm/
         - https://towardsdatascience.com/understanding-dense-passage-retrieval-dpr-system-bce5aee4fd40
+
+**Day-12**
+
+    - Resumed exploring PyTorch 
+
+    - Explored about vector database
+
+
+**Day-13**
+
+    - Explored about milvus and some other vector database
+
+**Day-14**
+
+    - Explored about embedding sentences and store them in a vector database , started practising them
+
+**Day-15**
+
+    - Resumed exploring about how to store
+
+    - Explored to start building RAG app
+
+**Day-16**
+
+    - Started exploring about `streamlit` and how to host a site in streamlit
+
+**Day-17**
+
+    - Started building the RAG app
+
+**Day-18**
+
+    - Started exploring about private GPT app
+
+**Day-19**
+
+    - Started exploring about Ollama
+
+**Day-20**
+
+    - Explored on how to generate a better results in the RAG app
+
+**Day-21**
+
+    - Worked on whether the model answers based on the document or pretrained data
+
+**Day-22**
+
+    - Uploaded different PDF's and files to the model and check how it responds
+
+**Day-23**
+
+    - Started creating the UI for the RAG app
+
+**Day-24**
+
+    - Started preparing for presentation and also updated my resume and pythonanywhere profile
