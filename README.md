@@ -1,11 +1,11 @@
-# summer_internship_2024
+# Summer Internship 2024
 
 
 **DAY-1**
 
-- Learnt about PyTorch from https://www.youtube.com/watch?v=Z_ikDlimN6A&ab_channel=DanielBourke this video
+    - Learnt about PyTorch from https://www.youtube.com/watch?v=Z_ikDlimN6A&ab_channel=DanielBourke this video
 
-- Topics covered today:
+    - Topics covered today:
 
     - What is Machine learning?
     - Why use Machine learning
@@ -18,9 +18,9 @@
 
 **DAY-2**
 
- - Continued watching the Learn PyTorch video
+    - Continued watching the Learn PyTorch video
 
- - Topics covered today:
+    - Topics covered today:
     
     - What is Random tensor
     - Why use Random tensors
